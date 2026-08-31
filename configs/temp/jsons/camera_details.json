@@ -1,0 +1,140 @@
+{
+    "ANPR_1": {
+        "globalUrl": "rtsp://admin:abcd2024@115.247.115.194:1111/enr/live/1/1",
+        "localUrl": "rtsp://admin:abcd2024@192.168.1.11:554/enr/live/1/1",
+        "id": 21,
+        "roi_info": {
+            "4": {
+                "xRatio": 0.32,
+                "yRatio": 0.97
+            },
+            "3": {
+                "xRatio": 0.87,
+                "yRatio": 0.96
+            },
+            "2": {
+                "xRatio": 0.71,
+                "yRatio": 0.32
+            },
+            "1": {
+                "xRatio": 0.37,
+                "yRatio": 0.34
+            }
+        }
+    },
+    "Top_1": {
+        "globalUrl": "rtsp://admin:abcd2024@115.247.115.194:1112/enr/live/1/1",
+        "localUrl": "rtsp://admin:abcd2024@192.168.1.12:554/enr/live/1/1",
+        "id": 22,
+        "roi_info": {
+            "4": {
+                "xRatio": 0.36,
+                "yRatio": 0.89
+            },
+            "3": {
+                "xRatio": 0.7,
+                "yRatio": 0.88
+            },
+            "2": {
+                "xRatio": 0.52,
+                "yRatio": 0.12
+            },
+            "1": {
+                "xRatio": 0.43,
+                "yRatio": 0.12
+            }
+        }
+    },
+    "ANPR_2": {
+        "globalUrl": "rtsp://admin:abcd2024@115.247.115.194:1121/enr/live/1/1",
+        "localUrl": "rtsp://admin:abcd2024@192.168.1.21:554/enr/live/1/1",
+        "id": 23,
+        "roi_info": {
+            "4": {
+                "xRatio": 0.29,
+                "yRatio": 0.94
+            },
+            "3": {
+                "xRatio": 0.83,
+                "yRatio": 0.92
+            },
+            "2": {
+                "xRatio": 0.7,
+                "yRatio": 0.29
+            },
+            "1": {
+                "xRatio": 0.36,
+                "yRatio": 0.33
+            }
+        }
+    },
+    "Top_2": {
+        "globalUrl": "rtsp://admin:abcd2024@115.247.115.194:1122/enr/live/1/1",
+        "localUrl": "rtsp://admin:abcd2024@192.168.1.22:554/enr/live/1/1",
+        "id": 24,
+        "roi_info": {
+            "4": {
+                "xRatio": 0.34,
+                "yRatio": 0.87
+            },
+            "3": {
+                "xRatio": 0.67,
+                "yRatio": 0.89
+            },
+            "2": {
+                "xRatio": 0.57,
+                "yRatio": 0.13
+            },
+            "1": {
+                "xRatio": 0.47,
+                "yRatio": 0.13
+            }
+        }
+    },
+    "ANPR_3": {
+        "globalUrl": "rtsp://admin:abcd2024@115.247.115.194:1151/enr/live/1/1",
+        "localUrl": "rtsp://admin:abcd2024@192.168.1.51:554/enr/live/1/1",
+        "id": 25,
+        "roi_info": {
+            "4": {
+                "xRatio": 0.2,
+                "yRatio": 0.96
+            },
+            "3": {
+                "xRatio": 0.96,
+                "yRatio": 0.98
+            },
+            "2": {
+                "xRatio": 0.83,
+                "yRatio": 0.3
+            },
+            "1": {
+                "xRatio": 0.34,
+                "yRatio": 0.32
+            }
+        }
+    },
+    "Top_3": {
+        "globalUrl": "rtsp://admin:abcd2024@115.247.115.194:1152/enr/live/1/1",
+        "localUrl": "rtsp://admin:abcd2024@192.168.1.52:554/enr/live/1/1",
+        "id": 26,
+        "roi_info": {
+            "4": {
+                "xRatio": 0.43,
+                "yRatio": 0.96
+            },
+            "3": {
+                "xRatio": 0.89,
+                "yRatio": 0.95
+            },
+            "2": {
+                "xRatio": 0.74,
+                "yRatio": 0.13
+            },
+            "1": {
+                "xRatio": 0.62,
+                "yRatio": 0.14
+            }
+        }
+    }
+}

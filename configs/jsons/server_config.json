@@ -1,0 +1,142 @@
+{
+  "statusCode": "200",
+  "statusMessage": "All Records Are Fetched Successfully.",
+  "statusMessage1": null,
+  "responseData": {
+    "locationId": 2,
+    "location": "Alabeli Police Chauki ",
+    "machineId": 2,
+    "machine": "2",
+    "localUrl": null,
+    "cameraDetailsForProfiles": [
+      {
+        "id": 10,
+        "cameraUniqueID": 10,
+        "cameraType": "ANPR",
+        "machineId": 2,
+        "machine": "2",
+        "laneId": 1,
+        "globalUrl": "rtsp://admin:abcd2024@103.10.225.8:1052/enr/live/1/1",
+        "localUrl": "rtsp://admin:abcd2024@192.168.1.12:554/enr/live/1/1",
+        "locationId": 2,
+        "location": "Alabeli Police Chauki ",
+        "cameraCompany": "Eyenor",
+        "isPrimary": true,
+        "rOIInfoDetails": {
+          "id": 12,
+          "locationId": 2,
+          "location": "Alabeli Police Chauki ",
+          "machineId": 2,
+          "machine": "2",
+          "laneId": 1,
+          "cameraType": "ANPR",
+          "globalUrl": "rtsp://admin:abcd2024@103.10.225.8:1052/enr/live/1/1",
+          "isPrimary": false,
+          "rOIRatioModels": [
+            {
+              "id": 48,
+              "roiId": 12,
+              "xRatio": "0.3293768545994065",
+              "yRatio": "0.3956478733926805",
+              "xCoOrdinate": "632.4035608308606",
+              "yCoOrdinate": "427.29970326409494",
+              "createdBy": 1
+            },
+            {
+              "id": 47,
+              "roiId": 12,
+              "xRatio": "0.6726013847675569",
+              "yRatio": "0.383338828442686",
+              "xCoOrdinate": "1291.3946587537093",
+              "yCoOrdinate": "414.0059347181009",
+              "createdBy": 1
+            },
+            {
+              "id": 46,
+              "roiId": 12,
+              "xRatio": "0.579624134520277",
+              "yRatio": "0.04220243982855259",
+              "xCoOrdinate": "1112.8783382789318",
+              "yCoOrdinate": "45.5786350148368",
+              "createdBy": 1
+            },
+            {
+              "id": 45,
+              "roiId": 12,
+              "xRatio": "0.3560830860534125",
+              "yRatio": "0.0457193098142653",
+              "xCoOrdinate": "683.679525222552",
+              "yCoOrdinate": "49.37685459940653",
+              "createdBy": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 11,
+        "cameraUniqueID": 11,
+        "cameraType": "Top",
+        "machineId": 2,
+        "machine": "2",
+        "laneId": 1,
+        "globalUrl": "rtsp://admin:abcd2024@103.10.225.8:1081/enr/live/1/1",
+        "localUrl": "rtsp://admin:abcd2024@192.168.1.11:554/enr/live/1/1",
+        "locationId": 2,
+        "location": "Alabeli Police Chauki ",
+        "cameraCompany": "Eyenor",
+        "isPrimary": true,
+        "rOIInfoDetails": null
+      },
+      {
+        "id": 12,
+        "cameraUniqueID": 12,
+        "cameraType": "ANPR",
+        "machineId": 2,
+        "machine": "2",
+        "laneId": 2,
+        "globalUrl": "rtsp://admin:abcd2024@103.10.225.8:1053/enr/live/1/1",
+        "localUrl": "rtsp://admin:abcd2024@192.168.1.10:554/enr/live/1/1",
+        "locationId": 2,
+        "location": "Alabeli Police Chauki ",
+        "cameraCompany": "Eyenor",
+        "isPrimary": true,
+        "rOIInfoDetails": null
+      },
+      {
+        "id": 50,
+        "cameraUniqueID": 134,
+        "cameraType": "Top",
+        "machineId": 2,
+        "machine": "2",
+        "laneId": 2,
+        "globalUrl": "rtsp://admin:abcd2024@103.10.225.8:1082/enr/live/1/1",
+        "localUrl": "rtsp://admin:abcd2024@192.168.1.10:554/enr/live/1/1",
+        "locationId": 2,
+        "location": "Alabeli Police Chauki ",
+        "cameraCompany": "Eynore",
+        "isPrimary": true,
+        "rOIInfoDetails": null
+      }
+    ],
+    "rFIDPortDetails": {
+      "id": 6,
+      "locationId": 2,
+      "location": "Alabeli Police Chauki ",
+      "machineId": 2,
+      "machine": "2",
+      "lane": 1,
+      "rfidReaderIP": "66",
+      "rfidPort": "666",
+      "receiverPort": "6666",
+      "createdBy": 0,
+      "createdDate": "0001-01-01T00:00:00",
+      "modifiedBy": 0,
+      "modifiedDate": "0001-01-01T00:00:00",
+      "isDeleted": false
+    }
+  },
+  "responseData1": null,
+  "responseData2": null,
+  "responseData3": null,
+  "responseData4": null
+}

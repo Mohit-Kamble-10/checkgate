@@ -1,0 +1,55 @@
+{
+  "storagemodel": {
+     "locationid": 0,
+    "machineid": 0,
+    "softwareid": 1,
+    "total_space": 0,
+    "used_space": 0,
+    "percent_used": 0,
+    "total_ram": 0,
+    "used_ram": 0,
+    "percent_ramused": 0,
+    "ai_createddate": ""
+  },
+  "coderestart": {
+     "locationid": 0,
+    "machineid": 0,
+    "softwareid": 2,
+    "laneid": 0,
+    "ai_createddate": ""
+  },
+  "restartmachine": {
+    "machineid": 0,
+     "locationid": 0,
+     "softwareid": 3,
+    "machinerestartremarkid": 0,
+    "restart_datetime": "",
+    "ai_createddate": "",
+    "restartcount": 0
+    
+  },
+  "codeHealthcheck": {
+     "locationid": 0,
+    "machineid": 0,
+    "softwareid": 4,
+    "softwarename": "",
+    "runningProcess": "",
+    "stoppedProcess": "",
+    "ai_createddate": ""
+  },
+  "gpU_CPU_Temperature": {
+     "locationid": 0,
+    "machineid": 0,
+    "softwareid": 5,
+    "cpu_temperature": 0,
+    "cpu_temperature_above_avg_flag": false,
+    "cpu_temperature_above_avg_threshold": 0,
+    "gpu_temperature": 0,
+    "gpu_temperature_above_avg_flag": false,
+    "gpu_temperature_above_avg_threshold": 0,
+    "status": "",
+    "workingstatus": "",
+    "ai_createddate": ""
+  }
+}
+

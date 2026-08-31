@@ -1,0 +1,10 @@
+[server]
+port = 1135
+address = "0.0.0.0"
+baseUrlPath = "web"
+enableCORS = false
+enableXsrfProtection = false
+headless = true
+
+[browser]
+gatherUsageStats = false

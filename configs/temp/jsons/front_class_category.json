@@ -1,0 +1,16 @@
+{
+  "mini_truck": 1,
+  "container": 2,
+  "hywa": 3,
+  "tractor": 4,
+  "car": 5,
+  "bus": 6,
+  "unclassified": 7,
+  "other": 8,
+  "not_found": 9,
+  "image_not_found": 10,
+  "two_wheeler": 11,
+  "truck": 12,
+  "Not_Found":9
+}
+

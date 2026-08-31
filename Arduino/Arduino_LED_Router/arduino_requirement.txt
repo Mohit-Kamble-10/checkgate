@@ -1,0 +1,9 @@
+Download Arduino IDE from following link or from google
+https://www.arduino.cc/en/software
+select Linux zip file -> just download -> just download
+Extract files
+Open extracted folder then open arduino-ide
+write arduino script(sketch) and load the sketch in arduino
+write python script related to arduino sketch means input in arduino sketch and in python scripts should be same (eg, baud rate , relay i/p)
+command to change port in ubuntu: sudo chmod a+rw /dev/ttyACM0
+command to add user for port :sudo usermod -aG dialout $USER

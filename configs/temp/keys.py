@@ -1,0 +1,3 @@
+
+certificate_pin='sha256/k1XJraU/FLDigb9uo3i6McoHZQ2KjcmTtUzIb0l1egk='
+hash_value='0df94339f3c86a5d7c5af840c219d1716d221bf7d06a84e38ad60e425fe81a28'

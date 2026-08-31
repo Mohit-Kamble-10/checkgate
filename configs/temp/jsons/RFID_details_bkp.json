@@ -1,0 +1,8 @@
+{
+    "RFID_1": {
+        "id": 7,
+        "rfidReaderIP": "192.168.1.13",
+        "rfidPort": "60000",
+        "receiverPort": "1510"
+    }
+}

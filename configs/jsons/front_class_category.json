@@ -1,0 +1,18 @@
+{
+    "mini_truck": 1,
+    "container": 2,
+    "hywa": 3,
+    "tractor": 4,
+    "car": 5,
+    "bus": 6,
+    "unclassified": 7,
+    "other": 8,
+    "not_found": 9,
+    "image_not_found": 10,
+    "two_wheeler": 11,
+    "truck": 12,
+    "2_Axles_(6_wheeler": 13,
+    "3_Axles_(10_wheeler": 14,
+    "4-6_Axles_(More_than_10_wheeler": 15,
+    "Dumper_(Hydraulic_6_Wheeler": 16
+}

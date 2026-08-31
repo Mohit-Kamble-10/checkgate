@@ -1,0 +1,19 @@
+{
+    "Brown_Sand": 10,
+    "Coal": 12,
+    "Crusher_Khadi": 6,
+    "Dolomite": 18,
+    "Iron_Ore": 13,
+    "Khadi": 7,
+    "Kopra": 15,
+    "Laterite": 16,
+    "Limetone": 14,
+    "Murum": 5,
+    "Not_Found": 9,
+    "Other": 8,
+    "Sand": 4,
+    "Soil": 3,
+    "Stone": 2,
+    "Stone_crush_powder": 1,
+    "Tar": 11
+}

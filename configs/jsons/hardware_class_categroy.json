@@ -1,0 +1,8 @@
+{
+    "MicroController": 2,
+    "Heat_Sensor": 3,
+    "Light_Sensor": 4,
+    "Solar_": 5,
+    "Power_Generation": 6,
+    "GPU": 7
+}

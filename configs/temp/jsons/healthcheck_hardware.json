@@ -1,0 +1,78 @@
+{
+  "microcontrollerstatus": {
+    "locationid": 0,
+    "machineid": 0,
+    "hardwareid": 2,
+    "status": "",
+    "ai_createddate": "",
+    "workingstatus": ""
+  },
+  "hardwareheatanalysis": {
+    "locationid": 0,
+    "machineid": 0,
+    "hardwareid": 3,
+    "temprature": 0,
+    "status": "",
+    "workingstatus": "",
+    "ai_createddate": ""
+  },
+  "hardwarelightsensor": {
+    "locationid": 0,
+    "machineid": 0,
+    "hardwareid": 4,
+    "status": "",
+    "workingstatus": "",
+    "ai_createddate": ""
+  },
+  "hardwaresolar": {
+    "locationid": 0,
+    "machineid": 0,
+    "hardwareid": 5,
+    "status": "",
+    "workingstatus": "",
+    "ai_createddate": ""
+  },
+  "powergenerationstatus": {
+    "locationid": 0,
+    "machineid": 0,
+    "hardwareid": 6,
+    "powerstatus": "",
+    "powerbackupstatus": "",
+    "ai_createddate": "",
+    "workingstatus": ""
+  },
+  "hardwareGPU": {
+    "locationid": 0,
+    "machineid": 0,
+    "hardwareid": 7,
+    "status": "",
+    "workingstatus": "",
+    "ai_createddate": ""
+  },
+  "hardwaretamperingstatus": {
+    "locationid": 0,
+    "machineid": 0,
+    "tamperingstatus": "",
+    "ai_createddate": "",
+    "workingstatus": ""
+  },
+  "ledlightstatus": [
+    {
+      "locationid": 0,
+      "machineid": 0,
+      "laneid": 0,
+      "ai_createddate": "",
+      "workingstatus": "",
+      "status": ""
+    }
+  ],
+  "rfidportdetails": [
+    {
+      "locationid": 0,
+      "machineid": 0,
+      "laneid": 0,
+      "status": "",
+      "ai_createddate": ""
+    }
+  ]
+}
